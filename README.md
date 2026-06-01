@@ -37,11 +37,10 @@ This Power BI dashboard provides insights into bank loan applications, funded am
 ## - Dashboard Screenshots
 
 ### Summary Dashboard
-![Summary Dashboard](<img width="3075" height="1763" alt="HI_page-0001" src="https://github.com/user-attachments/assets/ce2a31fc-33bd-4227-99e9-fbb5ecba1992" />)
+![Summary Dashboard](Dashboard%20Screenshots/Summary%20Dashboard.png)
 
 ### Overview Dashboard
-![Overview Dashboard](<img width="3075" height="1763" alt="HI_page-0002" src="https://github.com/user-attachments/assets/627a51fd-7901-431e-b91f-45fbe92e4c4d" />
-)
+![Overview Dashboard](Dashboard%20Screenshots/Overview%20Dashboard.png)
 
 ## - Business Insights
 
